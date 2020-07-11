@@ -1,14 +1,11 @@
 # Patrick C. Barcelos
-<br/>
-🔭 I’m currently working on Orgsytem (https://www.orgsystem.com.br/) <br/><br/>
-🌱 I’m currently learning Redux, NodeJs and some tricks with react <br/><br/>
 
-💬 About me
-```
 I'm passionate about technologies, frontend working with React, and React Native.
-```
 
-📫 How to reach me:
+- 🔭 I’m currently working on <a href="https://www.orgsystem.com.br/">Orgsytem</a>
+- 🌱 I’m currently learning Redux, NodeJs and some tricks with react
+- 📫 How to reach me:
 
-![Twitter Badge](https://img.shields.io/twitter/url?color=%23FFFFFF&label=%40PCBsytem&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FPCBsytem)
-![Linkedin Badge](https://img.shields.io/twitter/url?label=Patrick%20Cristian%20Barcelos&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpatrick-cristian-barcelos-374ab233%2F)
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Barcelos-616161?style=flat-square&labelColor=white&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/patrick-cristian-barcelos-374ab233/)](https://www.linkedin.com/in/patrick-cristian-barcelos-374ab233/) 
+[![Twitter Badge](https://img.shields.io/badge/-@PCBsytem-616161?style=flat-square&labelColor=white&logo=twitter&logoColor=1da1f2&link=https://twitter.com/PCBsytem)](https://twitter.com/PCBsytem) 
+[![Gmail Badge](https://img.shields.io/badge/-patrick.barc@gmail.com-616161?style=flat-square&labelColor=white&logo=Gmail&logoColor=E53935&link=mailto:patrick.barc@gmail.com)](mailto:patrick.barc@gmail.com)
