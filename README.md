@@ -2,7 +2,7 @@
 
 I'm passionate about technologies, frontend working with React, and React Native.
 
-- 🔭 I’m currently working on <a href="https://www.orgsystem.com.br/">Orgsytem</a>
+- 🔭 I’m currently working at <a href="https://www.orgsystem.com.br/">Orgsytem</a>
 - 🌱 I’m currently learning Redux, NodeJs and some tricks with react
 - 📫 How to reach me:
 
